@@ -1,0 +1,726 @@
+2024-12-30 20:06:09,631 - User: & C:/Users/asus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asus/OneDrive/Desktop/python/chatbot.py
+2024-12-30 20:06:09,632 - Assistant: 
+            You are a personal trainer with extensive experience in helping clients achieve their fitness goals. How would you approach this question: & C:/Users/asus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asus/OneDrive/Desktop/python/chatbot.py?
+            Please provide detailed insights, including any recommended exercises, nutrition tips, and motivational strategies that could be useful.
+        
+2025-01-08 18:10:00,984 - User: hi
+2025-01-08 18:10:00,986 - Assistant: 
+            You are a helpful assistant capable of answering various general inquiries. Please respond to the following question: hi.
+            Ensure your response is accurate, concise, and helpful.
+        
+2025-01-10 16:09:30,834 - User: & C:/Users/asus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asus/OneDrive/Desktop/python/chatbot.py
+2025-01-10 16:09:30,835 - Assistant: 
+            You are a helpful assistant capable of answering various general inquiries. Please respond to the following question: & C:/Users/asus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asus/OneDrive/Desktop/python/chatbot.py.
+            Ensure your response is accurate, concise, and helpful.
+        
+2025-01-10 20:10:45,460 - User: & C:/Users/asus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asus/OneDrive/Desktop/python/chatbot.py
+2025-01-10 20:10:45,469 - Assistant: 
+            You are a helpful assistant capable of answering various general inquiries. Please respond to the following question: & C:/Users/asus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asus/OneDrive/Desktop/python/chatbot.py.
+            Ensure your response is accurate, concise, and helpful.
+        
+2025-01-10 20:14:06,915 - User: im not feeling well
+2025-01-10 20:14:06,916 - Assistant: 
+            You are a psychologist. Please provide insights on the following question: im not feeling well. 
+            Include relevant psychological concepts, coping strategies, and any advice that may help individuals dealing with this issue.
+        
+2025-01-10 20:22:11,026 - User: & C:/Users/asus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asus/OneDrive/Desktop/python/chatbot.py
+2025-01-10 20:22:11,037 - Assistant: 
+            You are a psychologist. Please provide insights on the following question: & C:/Users/asus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/asus/OneDrive/Desktop/python/chatbot.py. 
+            Include relevant psychological concepts, coping strategies, and any advice that may help individuals dealing with this issue.
+        
+2025-01-10 20:22:20,634 - User: hi
+2025-01-10 20:22:20,634 - Assistant: 
+            You are a psychologist. Please provide insights on the following question: hi. 
+            Include relevant psychological concepts, coping strategies, and any advice that may help individuals dealing with this issue.
+        
+2025-01-10 20:31:15,651 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 20:31:15,651 - [33mPress CTRL+C to quit[0m
+2025-01-10 20:31:15,703 -  * Restarting with watchdog (windowsapi)
+2025-01-10 20:31:16,029 -  * Debugger is active!
+2025-01-10 20:31:16,034 -  * Debugger PIN: 853-616-535
+2025-01-10 22:39:31,999 -  * Detected change in 'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py', reloading
+2025-01-10 22:39:32,046 -  * Detected change in 'c:\\Users\\asus\\OneDrive\\Desktop\\python\\chatbot.py', reloading
+2025-01-10 22:39:32,087 -  * Detected change in 'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\templating.py', reloading
+2025-01-10 22:39:32,343 -  * Restarting with watchdog (windowsapi)
+2025-01-10 22:39:33,466 -  * Debugger is active!
+2025-01-10 22:39:33,476 -  * Debugger PIN: 853-616-535
+2025-01-10 22:39:33,561 -  * Detected change in 'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2025-01-10 22:39:33,588 -  * Detected change in 'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2025-01-10 22:39:33,595 - 127.0.0.1 - - [10/Jan/2025 22:39:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-10 22:39:33,819 - 127.0.0.1 - - [10/Jan/2025 22:39:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-01-10 22:39:33,837 - 127.0.0.1 - - [10/Jan/2025 22:39:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-01-10 22:39:33,936 - 127.0.0.1 - - [10/Jan/2025 22:39:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-01-10 22:39:33,950 - 127.0.0.1 - - [10/Jan/2025 22:39:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-10 22:39:34,586 -  * Restarting with watchdog (windowsapi)
+2025-01-10 22:39:34,886 -  * Debugger is active!
+2025-01-10 22:39:34,886 -  * Debugger PIN: 853-616-535
+2025-01-10 22:40:01,880 - 127.0.0.1 - - [10/Jan/2025 22:40:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-10 22:40:02,004 - 127.0.0.1 - - [10/Jan/2025 22:40:02] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-10 22:40:02,004 - 127.0.0.1 - - [10/Jan/2025 22:40:02] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-10 22:40:02,077 - 127.0.0.1 - - [10/Jan/2025 22:40:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-10 22:40:34,923 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 22:40:34,923 - [33mPress CTRL+C to quit[0m
+2025-01-10 22:40:34,936 -  * Restarting with watchdog (windowsapi)
+2025-01-10 22:40:35,236 -  * Debugger is active!
+2025-01-10 22:40:35,249 -  * Debugger PIN: 853-616-535
+2025-01-10 22:48:15,701 -  * Detected change in 'c:\\Users\\asus\\OneDrive\\Desktop\\python\\chatbot.py', reloading
+2025-01-10 22:48:15,701 -  * Detected change in 'c:\\Users\\asus\\OneDrive\\Desktop\\python\\chatbot.py', reloading
+2025-01-10 22:48:15,703 -  * Detected change in 'c:\\Users\\asus\\OneDrive\\Desktop\\python\\chatbot.py', reloading
+2025-01-10 22:48:15,703 -  * Detected change in 'c:\\Users\\asus\\OneDrive\\Desktop\\python\\chatbot.py', reloading
+2025-01-10 22:48:15,703 -  * Detected change in 'c:\\Users\\asus\\OneDrive\\Desktop\\python\\chatbot.py', reloading
+2025-01-10 22:48:15,704 -  * Detected change in 'c:\\Users\\asus\\OneDrive\\Desktop\\python\\chatbot.py', reloading
+2025-01-10 22:48:15,911 -  * Restarting with watchdog (windowsapi)
+2025-01-10 22:48:16,069 -  * Restarting with watchdog (windowsapi)
+2025-01-10 22:48:20,468 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 22:48:20,468 - [33mPress CTRL+C to quit[0m
+2025-01-10 22:48:20,480 -  * Restarting with watchdog (windowsapi)
+2025-01-10 22:48:20,747 -  * Debugger is active!
+2025-01-10 22:48:20,752 -  * Debugger PIN: 853-616-535
+2025-01-11 17:49:23,215 -  * Detected change in 'c:\\Users\\asus\\OneDrive\\Desktop\\python\\chatbot.py', reloading
+2025-01-11 17:49:23,225 -  * Detected change in 'c:\\Users\\asus\\OneDrive\\Desktop\\python\\chatbot.py', reloading
+2025-01-11 17:49:23,731 -  * Restarting with watchdog (windowsapi)
+2025-01-11 17:49:48,106 - User: good afternoon
+2025-01-11 17:49:48,108 - Taylor: Sorry, I didn't understand that.
+2025-01-11 17:50:07,133 - User: coffee
+2025-01-11 17:50:07,133 - Taylor: The campus coffee bar is open from 8 AM to 6 PM.
+2025-01-11 17:53:06,813 - User: coffee
+2025-01-11 17:53:06,813 - Alex: The campus coffee bar is open from 8 AM to 6 PM.
+2025-01-11 17:53:23,490 - User: courses
+2025-01-11 17:53:23,490 - Alex: We offer a variety of courses. Please visit our website for details.
+2025-01-11 17:56:16,817 - User: hall
+2025-01-11 17:56:16,817 - Alex: That's interesting! Could you tell me more?
+2025-01-11 17:56:29,556 - User: hall
+2025-01-11 17:56:29,557 - Alex: Sorry, I didn't understand that.
+2025-01-11 17:56:35,979 - User: hall
+2025-01-11 17:56:35,979 - Alex: That's interesting! Could you tell me more?
+2025-01-11 17:57:45,564 - User: campus
+2025-01-11 17:57:45,564 - Alex: Sorry, I didn't understand that.
+2025-01-11 17:58:20,597 - User: campus
+2025-01-11 17:58:20,597 - Alex: I'm here to help. Could you clarify your question?
+2025-01-11 17:58:40,050 - User: campus
+2025-01-11 17:58:40,051 - Jordan: The campus is open 24/7.
+2025-01-11 18:10:54,426 - User: hi
+2025-01-11 18:10:54,427 - Morgan: As a psychologist, I suggest: hi
+2025-01-11 18:15:05,483 - User: coffee
+2025-01-11 18:15:05,483 - Taylor: The campus coffee bar is open from 8 AM to 6 PM.
+2025-01-11 18:15:14,230 - User: office
+2025-01-11 18:15:14,231 - Taylor: Sorry, I didn't understand that.
+2025-01-11 18:15:31,073 - User: campus
+2025-01-11 18:15:31,073 - Taylor: The campus is open 24/7.
+2025-01-12 22:55:53,667 - User: yes
+2025-01-12 22:55:53,669 - Riley: That's interesting! Could you tell me more?
+2025-01-13 13:50:10,405 - User: hi
+2025-01-13 13:50:10,407 - Alex: I'm here to help. Could you clarify your question?
+2025-01-13 13:50:24,901 - User: school
+2025-01-13 13:50:24,901 - Alex: Can you please rephrase?
+2025-01-13 13:50:34,772 - User: coffee
+2025-01-13 13:50:34,772 - Alex: The campus coffee bar is open from 8 AM to 6 PM.
+2025-01-13 14:37:22,103 - User: What are your fitness goals?
+2025-01-13 14:37:22,103 - Taylor: Can you please rephrase?
+2025-01-13 19:18:57,736 - User: yes
+2025-01-13 19:18:57,740 - Ruchi: That's interesting. Could you explain further?
+2025-01-13 19:19:21,685 - User: strees management
+2025-01-13 19:19:21,685 - Ruchi: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-13 19:19:34,897 - User: stress managemant
+2025-01-13 19:19:34,897 - Ruchi: It's okay to feel stressed. Let's talk about what's bothering you.
+2025-01-13 19:20:01,370 - User: im dealing with lots of anzity
+2025-01-13 19:20:01,370 - Ruchi: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-13 19:20:36,722 - User: im dealing with lots of anxiety lately
+2025-01-13 19:20:36,722 - Ruchi: Deep breaths can help. Would you like to try a relaxation technique?
+2025-01-13 19:21:01,474 - User: yes
+2025-01-13 19:21:01,474 - Ruchi: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-13 19:28:27,861 - User: no
+2025-01-13 19:28:27,861 - Prasun: That's interesting. Could you explain further?
+2025-01-13 19:39:45,810 - User: hi
+2025-01-13 19:39:45,810 - Ruchi: Can you tell me more about that?
+2025-01-13 19:39:53,071 - User: anxiety
+2025-01-13 19:39:53,071 - Ruchi: That's interesting. Could you explain further?
+2025-01-13 19:40:20,744 - User: sometimes
+2025-01-13 19:40:20,744 - Prasun: That's interesting. Could you explain further?
+2025-01-13 19:41:21,551 - User: need a workout routine
+2025-01-13 19:41:21,551 - Prasun: What type of workout are you interested in? Cardio, strength, or flexibility?
+2025-01-13 19:41:29,096 - User: cardio
+2025-01-13 19:41:29,096 - Prasun: That's interesting. Could you explain further?
+2025-01-13 19:42:22,269 - User: workout routine
+2025-01-13 19:42:22,269 - Pushpa: What type of workout are you interested in? Cardio, strength, or flexibility?
+2025-01-13 19:42:34,044 - User: flexibility
+2025-01-13 19:42:34,044 - Pushpa: That's interesting. Could you explain further?
+2025-01-13 19:43:32,075 - User: good
+2025-01-13 19:43:32,076 - Ruchi: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-13 19:44:04,789 - User: i need to manage my stress
+2025-01-13 19:44:04,789 - Ruchi: It's okay to feel stressed. Let's talk about what's bothering you.
+2025-01-13 19:44:30,447 - User: anxiety
+2025-01-13 19:44:30,447 - Ruchi: Deep breaths can help. Would you like to try a relaxation technique?
+2025-01-13 19:44:36,733 - User: yes
+2025-01-13 19:44:36,733 - Ruchi: Let's try progressive muscle relaxation. Start by tensing your toes for 5 seconds and then relaxing them.
+2025-01-13 19:44:52,613 - User: yes
+2025-01-13 19:44:52,613 - Ruchi: Let's try progressive muscle relaxation. Start by tensing your toes for 5 seconds and then relaxing them.
+2025-01-13 19:44:59,643 - User: more
+2025-01-13 19:44:59,643 - Ruchi: Can you tell me more about that?
+2025-01-13 19:45:05,302 - User ended the chat.
+2025-01-13 21:12:12,549 - User: wokout plans
+2025-01-13 21:12:12,549 - Jordan: That's interesting. Could you explain further?
+2025-01-13 21:12:25,018 - User: workout plans
+2025-01-13 21:12:25,018 - Jordan: What type of workout are you interested in? Cardio, strength, or flexibility?
+2025-01-13 21:22:31,021 - User: where is library
+2025-01-13 21:22:31,021 - Pushpa: The library is open from 8 AM to 10 PM. Would you like to know the available resources?
+2025-01-16 10:38:34,526 - User: hi
+2025-01-16 10:38:34,540 - Morgan: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-16 10:38:46,007 - User: no
+2025-01-16 10:38:46,007 - Morgan: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-16 10:39:37,143 - User: workout
+2025-01-16 10:39:37,143 - Morgan: What type of workout are you interested in? Cardio, strength, or flexibility?
+2025-01-16 10:39:44,552 - User: no
+2025-01-16 10:39:44,552 - Morgan: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-16 10:39:51,199 - User: yes
+2025-01-16 10:39:51,199 - Morgan: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-16 10:40:37,118 - User: stress
+2025-01-16 10:40:37,118 - Jordan: It's okay to feel stressed. Let's talk about what's bothering you.
+2025-01-16 10:41:07,060 - User: lately im dealing with anxiety
+2025-01-16 10:41:07,061 - Jordan: Deep breaths can help. Would you like to try a relaxation technique?
+2025-01-16 10:41:14,895 - User: yes
+2025-01-16 10:41:14,895 - Jordan: Let's try progressive muscle relaxation. Start by tensing your toes for 5 seconds and then relaxing them.
+2025-01-16 10:41:30,950 - User: okay
+2025-01-16 10:41:30,950 - Jordan: Can you tell me more about that?
+2025-01-16 10:48:50,535 - User: hi
+2025-01-16 10:48:50,535 - Prasun: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-16 10:50:40,314 - Ruchi: I don't have any predefined questions for this category.
+2025-01-16 10:50:56,911 - Ruchi: Have you been experiencing any stress or anxiety lately?
+2025-01-16 10:51:11,725 - User: yes
+2025-01-16 10:51:11,725 - Ruchi: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-16 11:01:10,814 - Ruchi: I don't have any predefined questions for this category.
+2025-01-16 11:01:26,712 - Ruchi: Have you been experiencing any stress or anxiety lately?
+2025-01-16 11:01:39,978 - Ruchi: Do you have questions about admissions?
+2025-01-16 11:01:46,280 - User: yes
+2025-01-16 11:01:46,280 - Ruchi: I'm sorry, I didn't understand that. Could you rephrase?
+2025-01-16 11:02:05,958 - User: hi
+2025-01-16 11:02:05,958 - Morgan: Can you tell me more about that?
+2025-01-16 11:20:26,285 - User: hi
+2025-01-16 11:20:26,292 - Morgan: How are you feeling today?If you have anything feel free ask!
+2025-01-16 11:20:36,297 - Morgan: Have you been experiencing any stress or anxiety lately?
+2025-01-16 11:21:45,249 - User: hi
+2025-01-16 11:21:45,249 - Prasun: hello! If you have anything feel free ask , I'm here to help you
+2025-01-16 11:21:55,261 - Prasun: What can I help you with today?
+2025-01-16 11:22:14,654 - User: i wnat to know about admissions
+2025-01-16 11:22:14,654 - Prasun: Admissions are open till the end of this month. Let me know if you need assistance.
+2025-01-16 11:22:20,665 - User: yes
+2025-01-16 11:22:20,666 - Prasun: I'm not sure about that. Could you rephrase that again?
+2025-01-16 11:25:20,294 - User: hi
+2025-01-16 11:25:20,294 - Jordan: hello! If you have anything feel free ask , I'm here to help you
+2025-01-16 11:25:30,296 - Jordan: What can I help you with today?
+2025-01-16 11:25:34,578 - User: admission 
+2025-01-16 11:25:34,578 - Jordan: Admissions are open till the end of this month. Let me know if you need assistance.
+2025-01-16 11:25:42,856 - User: yes
+2025-01-16 11:25:42,856 - Jordan: Sorry, I didn't understand that.
+2025-01-16 11:25:56,410 - User: hi
+2025-01-16 11:25:56,410 - Jordan:  hello! are you dealing with some kind of health problems lately? If you have anything feel free ask!
+2025-01-16 11:26:06,415 - Jordan: What symptoms are you experiencing?
+2025-01-16 11:26:11,911 - User: stress
+2025-01-16 11:26:11,911 - Jordan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 11:26:21,915 - Jordan: Do you have a specific health concern?
+2025-01-16 11:26:34,879 - User: im dealing with lots of stress and anxiety lately
+2025-01-16 11:26:34,879 - Jordan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 11:27:12,990 - User: hi
+2025-01-16 11:27:12,990 - Jordan: hello!How are you feeling today?If you have anything feel free ask!
+2025-01-16 11:27:20,149 - User: stress
+2025-01-16 11:27:20,149 - Jordan: Deep breathing exercises might help. Would you like more relaxation techniques?
+2025-01-16 11:27:25,454 - User: yes
+2025-01-16 11:27:25,454 - Jordan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 12:03:57,555 - User: hi
+2025-01-16 12:03:57,556 - Pushpa: hello!How are you feeling today?If you have anything feel free ask!
+2025-01-16 12:04:16,255 - User: im dealing with stress lately
+2025-01-16 12:04:16,255 - Pushpa: Deep breathing exercises might help. Would you like more relaxation techniques?
+2025-01-16 12:04:21,205 - User: yes
+2025-01-16 12:04:21,205 - Pushpa: I'm not sure about that. Could you rephrase that again?
+2025-01-16 12:11:16,042 - User: hi how are you
+2025-01-16 12:11:16,043 - Jordan:  hello! are you dealing with some kind of health problems lately? If you have anything feel free ask!
+2025-01-16 12:11:33,695 - User: fever
+2025-01-16 12:11:33,695 - Jordan: You should take plenty of fluids and rest. If it persists, consult a doctor.
+2025-01-16 12:11:41,521 - User: thank you
+2025-01-16 12:11:41,521 - Jordan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 12:18:50,591 - Prasun: Do you have questions about admissions?
+2025-01-16 12:18:55,369 - User: yes
+2025-01-16 12:18:55,369 - Prasun: Sorry, I didn't understand that.
+2025-01-16 12:19:55,844 - User: hi
+2025-01-16 12:19:55,844 - Jordan: hello!How are you feeling today?If you have anything feel free ask!
+2025-01-16 12:20:12,756 - User: fever
+2025-01-16 12:20:12,756 - Jordan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 12:20:40,104 - User: stress
+2025-01-16 12:20:40,105 - Jordan: Deep breathing exercises might help. Would you like more relaxation techniques?
+2025-01-16 12:20:44,045 - User: yes
+2025-01-16 12:20:44,045 - Jordan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 12:21:03,417 - User: no
+2025-01-16 12:21:03,417 - Jordan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 12:21:26,675 - User: hi
+2025-01-16 12:21:26,675 - Jordan: hello! If you have anything feel free ask , I'm here to help you
+2025-01-16 12:21:51,982 - User: whats the principle name
+2025-01-16 12:21:51,982 - Jordan: our principal is professor andrew. Do you need any other information
+2025-01-16 12:22:10,028 - User: where is this office
+2025-01-16 12:22:10,028 - Jordan: hello! If you have anything feel free ask , I'm here to help you
+2025-01-16 12:22:39,045 - User: where is principal office
+2025-01-16 12:22:39,045 - Jordan: Its on the second floor
+2025-01-16 12:22:50,609 - User: thank you
+2025-01-16 12:22:50,609 - Jordan: Welcome !Have a great day 
+2025-01-16 12:22:55,193 - User ended the chat.
+2025-01-16 12:25:28,429 - User: hi
+2025-01-16 12:25:28,429 - Ruchi: hello! If you have anything feel free ask , I'm here to help you
+2025-01-16 12:26:09,302 - Jordan: Do you have a specific health concern?
+2025-01-16 12:26:13,873 - User: yes
+2025-01-16 12:26:13,873 - Jordan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 12:26:44,974 - Morgan: What can I help you with today?
+2025-01-16 12:26:46,969 - Morgan: Do you have questions about admissions?
+2025-01-16 12:26:51,668 - User: yes
+2025-01-16 12:26:51,668 - Morgan: Sorry, I didn't understand that.
+2025-01-16 12:27:11,672 - Morgan: What can I help you with today?
+2025-01-16 12:33:29,707 - Morgan: How are you feeling today?
+2025-01-16 12:33:49,719 - Morgan: How are you feeling today?
+2025-01-16 12:33:51,765 - User: stress
+2025-01-16 12:33:51,765 - Morgan: Deep breathing exercises might help. Would you like more relaxation techniques?
+2025-01-16 12:34:01,954 - User: yes
+2025-01-16 12:34:01,954 - Morgan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 12:34:06,207 - Morgan: Would you like tips on mindfulness or relaxation?
+2025-01-16 12:34:11,848 - User: yes
+2025-01-16 12:34:11,848 - Morgan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 13:34:13,221 - User: hi
+2025-01-16 13:34:13,222 - Morgan:  hello! are you dealing with some kind of health problems lately? If you have anything feel free ask!
+2025-01-16 13:34:19,619 - User: yes
+2025-01-16 13:34:19,620 - Morgan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 13:35:44,279 - User: hi
+2025-01-16 13:35:44,279 - Morgan:  hello! are you dealing with some kind of health problems lately? If you have anything feel free ask!
+2025-01-16 13:35:50,692 - User: yes
+2025-01-16 13:35:50,692 - Morgan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 13:35:55,734 - User: fever
+2025-01-16 13:35:55,734 - Morgan: You should take plenty of fluids and rest. If it persists, consult a doctor.
+2025-01-16 13:36:04,550 - User: thank you
+2025-01-16 13:36:04,550 - Morgan: Welcome! Have a great day 
+2025-01-16 13:36:10,218 - User ended the chat.
+2025-01-16 13:36:40,293 - User: hi
+2025-01-16 13:36:40,293 - Ruchi: hello!How are you feeling today?If you have anything feel free ask!
+2025-01-16 13:37:00,301 - Ruchi: Would you like tips on mindfulness or relaxation?
+2025-01-16 13:37:08,346 - User: yes
+2025-01-16 13:37:08,346 - Ruchi: Sorry, I didn't understand that.
+2025-01-16 13:37:28,354 - Ruchi: Have you been experiencing any stress or anxiety lately?
+2025-01-16 13:37:33,398 - User: yes
+2025-01-16 13:37:33,398 - Ruchi: Sorry, I didn't understand that.
+2025-01-16 13:37:53,404 - Ruchi: Have you been experiencing any stress or anxiety lately?
+2025-01-16 13:37:53,704 - User: stress
+2025-01-16 13:37:53,705 - Ruchi: Deep breathing exercises might help. Would you like more relaxation techniques?
+2025-01-16 13:37:58,391 - User: yes
+2025-01-16 13:37:58,391 - Ruchi: Sorry, I didn't understand that.
+2025-01-16 13:38:37,137 - User: relaxation technique
+2025-01-16 13:38:37,138 - Morgan: Sorry, I didn't understand that.
+2025-01-16 13:50:05,836 - User: hi
+2025-01-16 13:50:05,836 - Ruchi:  hello! are you dealing with some kind of health problems lately? If you have anything feel free ask!
+2025-01-16 13:50:23,457 - User: im dealing fever
+2025-01-16 13:50:23,457 - Ruchi: You should take plenty of fluids and rest. If it persists, consult a doctor.
+2025-01-16 13:50:29,434 - User: thank you
+2025-01-16 13:50:29,434 - Ruchi: Welcome! Have a great day 
+2025-01-16 13:50:33,443 - User ended the chat.
+2025-01-16 13:50:44,062 - User: hi
+2025-01-16 13:50:44,063 - Jordan: hello!How are you feeling today?If you have anything feel free ask!
+2025-01-16 13:50:58,161 - User: anxiety
+2025-01-16 13:50:58,161 - Jordan: Try to focus on your breathing. Would you like tips to manage anxiety?
+2025-01-16 13:51:05,555 - User: yes
+2025-01-16 13:51:05,555 - Jordan: Sorry, I didn't understand that.
+2025-01-16 13:51:14,223 - Jordan: Would you like tips on mindfulness or relaxation?
+2025-01-16 13:51:18,219 - User: yes
+2025-01-16 13:51:18,219 - Jordan: I'm not sure about that. Could you rephrase that again?
+2025-01-16 14:05:05,931 - Morgan: What symptoms are you experiencing?
+2025-01-16 14:05:12,903 - User: fever
+2025-01-16 14:05:12,903 - Morgan: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 14:05:22,568 - User: thank you
+2025-01-16 14:05:22,568 - Morgan: You're welcome! Take care of your health, and have a great day!
+2025-01-16 14:05:28,973 - User ended the chat.
+2025-01-16 14:05:55,476 - User: hi
+2025-01-16 14:05:55,476 - Jordan: Hello! How are you feeling today? Remember, it's okay to talk about how you're feeling. Let me know how I can help.
+2025-01-16 14:06:11,332 - User: anxiety
+2025-01-16 14:06:11,332 - Jordan: Anxiety can feel overwhelming. Focusing on your breathing or grounding techniques can help. Would you like to explore those?
+2025-01-16 14:06:16,922 - User: yes
+2025-01-16 14:06:16,922 - Jordan: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 14:06:34,465 - User: no
+2025-01-16 14:06:34,465 - Jordan: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 14:06:36,422 - Jordan: Would you like tips on mindfulness or relaxation?
+2025-01-16 14:06:40,804 - User: yes
+2025-01-16 14:06:40,804 - Jordan: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 14:06:49,622 - User: no
+2025-01-16 14:06:49,622 - Jordan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 14:07:09,624 - Jordan: Would you like tips on mindfulness or relaxation?
+2025-01-16 14:07:29,511 - Jordan: Are you looking for information about our campus?
+2025-01-16 14:07:39,218 - User: yes
+2025-01-16 14:07:39,218 - Jordan: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 14:07:59,231 - Jordan: Do you have questions about admissions?
+2025-01-16 14:08:03,331 - User: admission
+2025-01-16 14:08:03,331 - Jordan: Admissions are open until the end of this month. You’ll need a completed application, transcripts, and recommendation letters. Let me know if you need more details.
+2025-01-16 14:08:23,334 - Jordan: Do you have questions about admissions?
+2025-01-16 14:08:23,769 - User: yes
+2025-01-16 14:08:23,770 - Jordan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 14:08:37,502 - User ended the chat.
+2025-01-16 14:10:05,700 - User: healthy eating tips
+2025-01-16 14:10:05,701 - Morgan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 14:10:25,718 - Morgan: Do you have a specific health concern?
+2025-01-16 14:10:51,846 - User: cold
+2025-01-16 14:10:51,846 - Morgan: If you have a cold, make sure to drink warm fluids and rest. Over-the-counter medications might help reduce symptoms.
+2025-01-16 14:11:02,770 - User: thank you
+2025-01-16 14:11:02,770 - Morgan: You're welcome! Take care of your health, and have a great day!
+2025-01-16 14:11:17,438 - User: hi
+2025-01-16 14:11:17,438 - Morgan: Hello! I'm here to help with any queries you have. Let me know how I can assist you today.
+2025-01-16 14:11:37,450 - Morgan: Are you looking for information about our campus?
+2025-01-16 14:11:44,463 - User: yes
+2025-01-16 14:11:44,463 - Morgan: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 14:12:04,466 - Morgan: Are you looking for information about our campus?
+2025-01-16 14:12:17,930 - User: admission
+2025-01-16 14:12:17,930 - Morgan: Admissions are open until the end of this month. You’ll need a completed application, transcripts, and recommendation letters. Let me know if you need more details.
+2025-01-16 14:12:37,933 - Morgan: What can I help you with today?
+2025-01-16 14:12:46,352 - Morgan: Do you have questions about admissions?
+2025-01-16 14:12:49,973 - User: yes
+2025-01-16 14:12:49,973 - Morgan: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 14:41:54,788 - Pushpa: Do you have a specific health concern?
+2025-01-16 14:42:02,210 - User: fever
+2025-01-16 14:42:02,211 - Pushpa: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 14:42:13,521 - User: thank you
+2025-01-16 14:42:13,521 - Pushpa: You're welcome! Take care of your health, and have a great day!
+2025-01-16 14:42:21,131 - User ended the chat.
+2025-01-16 14:42:42,244 - Prasun: How are you feeling today?
+2025-01-16 14:42:49,078 - User: stress
+2025-01-16 14:42:49,078 - Prasun: Stress is common. Deep breathing or mindfulness exercises can help. Would you like a few tips on managing stress?
+2025-01-16 14:42:54,976 - User: yes
+2025-01-16 14:42:54,976 - Prasun: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 14:43:44,377 - User: stress
+2025-01-16 14:43:44,377 - Ruchi: Stress is common. Deep breathing or mindfulness exercises can help. Would you like a few tips on managing stress?
+2025-01-16 14:43:50,156 - User: yes
+2025-01-16 14:43:50,156 - Ruchi: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 14:44:34,017 - Prasun: Would you like tips on mindfulness or relaxation?
+2025-01-16 14:44:38,689 - User: yes
+2025-01-16 14:44:38,690 - Prasun: Let me think about it.
+2025-01-16 14:44:58,701 - Prasun: Would you like tips on mindfulness or relaxation?
+2025-01-16 14:45:12,021 - User: yes
+2025-01-16 14:45:12,022 - Prasun: Can you rephrase your question?
+2025-01-16 14:45:17,035 - User: stress
+2025-01-16 14:45:17,035 - Prasun: Stress can be managed through mindfulness. Would you like to know more?
+2025-01-16 14:45:22,255 - User: yes
+2025-01-16 14:45:22,255 - Prasun: Let me think about it.
+2025-01-16 14:45:35,085 - User: wtf
+2025-01-16 14:45:35,085 - Prasun: I'm not sure about that.
+2025-01-16 14:45:36,955 - Prasun: How are you feeling today?
+2025-01-16 14:45:37,784 - Prasun: Would you like tips on mindfulness or relaxation?
+2025-01-16 14:45:38,185 - Prasun: Have you been experiencing any stress or anxiety lately?
+2025-01-16 14:45:43,054 - User: yes
+2025-01-16 14:45:43,054 - Prasun: Can you rephrase your question?
+2025-01-16 14:46:09,248 - Prasun: Do you have questions about admissions?
+2025-01-16 14:46:21,629 - User: yes
+2025-01-16 14:46:21,629 - Prasun: Let me think about it.
+2025-01-16 14:46:41,632 - Prasun: What can I help you with today?
+2025-01-16 14:47:00,630 - User: hi
+2025-01-16 14:47:00,631 - Prasun: Can you rephrase your question?
+2025-01-16 14:47:29,277 - User: hi
+2025-01-16 14:47:29,277 - Prasun: Hello! I'm here to help with any queries you have. Let me know how I can assist you today.
+2025-01-16 14:47:39,923 - User: office
+2025-01-16 14:47:39,923 - Prasun: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 14:47:50,662 - User: events
+2025-01-16 14:47:50,662 - Prasun: We host events regularly on campus, from workshops to cultural festivals. Would you like to know about upcoming events?
+2025-01-16 14:48:01,078 - User: yes
+2025-01-16 14:48:01,078 - Prasun: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 14:48:21,093 - Prasun: Are you looking for information about our campus?
+2025-01-16 14:52:55,785 - User: hi
+2025-01-16 14:52:55,785 - Jordan: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 14:53:13,546 - User: fever
+2025-01-16 14:53:13,546 - Jordan: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 14:53:21,801 - User: thank you
+2025-01-16 14:53:21,801 - Jordan: You're welcome! Take care of your health, and have a great day!
+2025-01-16 14:53:41,812 - Jordan: Is there anything else I can help you with?
+2025-01-16 14:53:50,491 - User: stress
+2025-01-16 14:53:50,491 - Jordan: Stress is common. Deep breathing or mindfulness exercises can help. Would you like a few tips on managing stress?
+2025-01-16 14:53:58,380 - User: yes
+2025-01-16 14:53:58,380 - Jordan: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 14:54:38,538 - User: motivation
+2025-01-16 14:54:38,538 - Prasun: Losing motivation is normal at times. Try breaking tasks into small, manageable goals. Would you like tips to stay focused?
+2025-01-16 14:54:51,475 - User: yes
+2025-01-16 14:54:51,476 - Prasun: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 14:55:23,660 - User: admission
+2025-01-16 14:55:23,660 - Prasun: Admissions are open until the end of this month. You’ll need a completed application, transcripts, and recommendation letters. Let me know if you need more details.
+2025-01-16 14:55:30,837 - User: yes
+2025-01-16 14:55:30,837 - Prasun: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 14:55:45,766 - User: admission requirements
+2025-01-16 14:55:45,766 - Prasun: Admissions are open until the end of this month. You’ll need a completed application, transcripts, and recommendation letters. Let me know if you need more details.
+2025-01-16 15:04:24,952 - Prasun: What symptoms are you experiencing?
+2025-01-16 15:04:30,362 - User: fever
+2025-01-16 15:04:30,363 - Prasun: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 15:04:38,012 - User: thank you
+2025-01-16 15:04:38,013 - Prasun: You're welcome! Take care of your health, and have a great day!
+2025-01-16 15:04:51,310 - Prasun: How are you feeling today?
+2025-01-16 15:05:00,043 - User: anxiety
+2025-01-16 15:05:00,043 - Prasun: Anxiety can feel overwhelming. Focusing on your breathing or grounding techniques can help. Would you like to explore those?
+2025-01-16 15:05:09,434 - User: yes
+2025-01-16 15:05:09,434 - Prasun: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 15:05:29,445 - Prasun: How are you feeling today?
+2025-01-16 15:08:06,653 - User: admission
+2025-01-16 15:08:06,653 - Prasun: Admissions are open until the end of this month. You’ll need a completed application, transcripts, and recommendation letters. Let me know if you need more details.
+2025-01-16 15:08:24,032 - Prasun: What can I help you with today?
+2025-01-16 15:08:25,406 - Prasun: Do you have questions about admissions?
+2025-01-16 15:08:29,878 - User: yes
+2025-01-16 15:08:29,878 - Prasun: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 15:10:48,119 - User: fever
+2025-01-16 15:10:48,119 - Morgan: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 15:10:56,509 - User: thank you
+2025-01-16 15:10:56,509 - Morgan: You're welcome! Take care of your health, and have a great day!
+2025-01-16 15:11:08,781 - User: hi
+2025-01-16 15:11:08,781 - Morgan: Hello! How are you feeling today? Remember, it's okay to talk about how you're feeling. Let me know how I can help.
+2025-01-16 15:11:25,944 - User: anxiety
+2025-01-16 15:11:25,944 - Morgan: Anxiety can feel overwhelming. Focusing on your breathing or grounding techniques can help. Would you like to explore those?
+2025-01-16 15:11:31,493 - User: yes
+2025-01-16 15:11:31,493 - Morgan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 15:11:40,025 - Morgan: How are you feeling today?
+2025-01-16 15:11:41,158 - Morgan: Would you like tips on mindfulness or relaxation?
+2025-01-16 15:11:48,151 - User: yes
+2025-01-16 15:11:48,151 - Morgan: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 15:11:54,445 - Morgan: What can I help you with today?
+2025-01-16 15:12:08,551 - User: admissions
+2025-01-16 15:12:08,551 - Morgan: Admissions are open until the end of this month. You’ll need a completed application, transcripts, and recommendation letters. Let me know if you need more details.
+2025-01-16 15:12:24,227 - User: requirements
+2025-01-16 15:12:24,227 - Morgan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 15:12:44,237 - Morgan: Are you looking for information about our campus?
+2025-01-16 15:12:50,002 - User: events
+2025-01-16 15:12:50,002 - Morgan: We host events regularly on campus, from workshops to cultural festivals. Would you like to know about upcoming events?
+2025-01-16 15:12:56,676 - User: yes
+2025-01-16 15:12:56,676 - Morgan: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 15:14:01,661 - User: healthy eating tips
+2025-01-16 15:14:01,661 - Morgan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 15:37:51,027 - Jordan: How are you feeling today?
+2025-01-16 15:37:57,626 - User: stress
+2025-01-16 15:37:57,626 - Jordan: Stress is common. Deep breathing or mindfulness exercises can help. 
+2025-01-16 15:38:17,611 - User: managing anxiety
+2025-01-16 15:38:17,611 - Jordan: Anxiety can feel overwhelming. Focusing on your breathing or grounding techniques can help. 
+2025-01-16 15:38:35,896 - User: healthy eating
+2025-01-16 15:38:35,896 - Jordan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 15:39:07,019 - Prasun: Would you like tips on mindfulness or relaxation?
+2025-01-16 15:39:14,837 - User: yes
+2025-01-16 15:39:14,837 - Prasun: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 15:39:38,656 - Pushpa: How are you feeling today?
+2025-01-16 15:39:39,646 - Pushpa: How are you feeling today?
+2025-01-16 15:39:40,375 - Pushpa: Would you like tips on mindfulness or relaxation?
+2025-01-16 15:39:46,349 - User: yes
+2025-01-16 15:39:46,349 - Pushpa: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 15:40:06,372 - Pushpa: Would you like tips on mindfulness or relaxation?
+2025-01-16 15:43:03,497 - Jordan: Would you like tips on mindfulness or relaxation?
+2025-01-16 15:56:12,478 - Pushpa: Are you looking for information about our campus?
+2025-01-16 15:56:17,249 - User: yes
+2025-01-16 15:56:17,249 - Pushpa: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 15:56:37,259 - Pushpa: Are you looking for information about our campus?
+2025-01-16 17:21:08,485 - Pushpa: Do you have questions about admissions?
+2025-01-16 17:21:17,492 - User: yes
+2025-01-16 17:21:17,492 - Pushpa: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 17:27:57,127 - Pushpa: Are you still there, rejina?
+2025-01-16 17:30:53,425 - Ruchi: Are you still there, rejina?
+2025-01-16 17:32:41,148 - Prasun: Are you still there, bitch?
+2025-01-16 17:37:12,092 - Ruchi: What symptoms are you experiencing?
+2025-01-16 17:38:06,278 - Morgan: Are you still there, rejina?
+2025-01-16 17:38:26,294 - Morgan: Are you still there, rejina?
+2025-01-16 17:38:46,310 - Morgan: Are you still there, rejina?
+2025-01-16 17:39:06,329 - Morgan: Are you still there, rejina?
+2025-01-16 17:39:14,997 - User ended the chat.
+2025-01-16 17:51:17,205 - Username set to rejina
+2025-01-16 17:51:37,219 - Jordan: Are you still there, rejina?
+2025-01-16 17:51:57,225 - Jordan: Are you still there, rejina?
+2025-01-16 17:52:17,235 - Jordan: Are you still there, rejina?
+2025-01-16 17:52:37,251 - Jordan: Are you still there, rejina?
+2025-01-16 17:54:55,216 - Prasun: Have you been experiencing any stress or anxiety lately?
+2025-01-16 17:55:02,429 - User: yes
+2025-01-16 17:55:02,429 - Prasun: None
+2025-01-16 17:55:22,305 - Prasun: Would you like tips on mindfulness or relaxation?
+2025-01-16 17:55:28,154 - User: yes
+2025-01-16 17:55:28,154 - Prasun: None
+2025-01-16 17:55:35,454 - User: stress
+2025-01-16 17:55:35,454 - Prasun: None
+2025-01-16 17:55:51,612 - User: anxiety
+2025-01-16 17:55:51,612 - Prasun: None
+2025-01-16 17:57:56,982 - Morgan: How are you feeling today?
+2025-01-16 17:58:16,620 - User: ive been stressed lately
+2025-01-16 17:58:16,620 - Morgan: Stress is common. Deep breathing or mindfulness exercises can help. 
+2025-01-16 17:58:25,038 - Morgan: Would you like to have few tips on mindfulness or relaxation?
+2025-01-16 17:58:31,164 - User: yes
+2025-01-16 17:58:31,164 - Morgan: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 18:23:22,935 - Pushpa: What can I help you with today?
+2025-01-16 18:24:49,852 - Pushpa: What can I help you with today?
+2025-01-16 18:29:45,725 - Morgan: Do you have a specific health concern?
+2025-01-16 18:32:28,811 - User: hi
+2025-01-16 18:32:28,811 - Jordan: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 18:32:36,700 - User: fever
+2025-01-16 18:32:36,700 - Jordan: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 18:32:44,480 - User: thank you
+2025-01-16 18:32:44,480 - Jordan: You're welcome! Take care of your health, and have a great day!
+2025-01-16 18:32:48,914 - User ended the chat.
+2025-01-16 18:33:40,812 - User: hi
+2025-01-16 18:33:40,812 - Jordan: Hello! How are you feeling today? Remember, it's okay to talk about how you're feeling. Let me know how I can help.
+2025-01-16 18:33:48,220 - User: anxiety
+2025-01-16 18:33:48,220 - Jordan: Anxiety can feel overwhelming. Focusing on your breathing or grounding techniques can help. 
+2025-01-16 18:34:01,408 - User ended the chat.
+2025-01-16 18:35:05,303 - User: hi
+2025-01-16 18:35:05,303 - Pushpa: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 18:35:25,321 - Pushpa: Do you have a specific health concern?
+2025-01-16 18:35:56,309 - User: fever
+2025-01-16 18:35:56,309 - Pushpa: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 18:36:06,227 - User ended the chat.
+2025-01-16 18:37:46,789 - Prasun: would you like to know about upcomming events?
+2025-01-16 18:37:47,004 - User: library
+2025-01-16 18:37:47,004 - Prasun: Our library is open from 9 AM to 8 PM. You can find digital resources, research journals, and study spaces. Do you need help with anything specific?
+2025-01-16 18:38:07,025 - Prasun: What can I help you with today?
+2025-01-16 18:38:16,298 - User: library
+2025-01-16 18:38:16,298 - Prasun: Our library is open from 9 AM to 8 PM. You can find digital resources, research journals, and study spaces. Do you need help with anything specific?
+2025-01-16 18:38:20,703 - User: yes
+2025-01-16 18:38:20,703 - Prasun: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 18:50:49,091 - Ruchi: Do you have a specific health concern?
+2025-01-16 19:08:03,742 - User: hi
+2025-01-16 19:08:03,742 - Jordan: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 19:08:34,518 - Ruchi: Would you like to have few tips on mindfulness or relaxation?
+2025-01-16 19:08:39,850 - User: yes
+2025-01-16 19:08:39,851 - Ruchi: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 19:14:08,644 - User ended the chat.
+2025-01-16 19:42:16,075 - User: hi
+2025-01-16 19:42:16,077 - Prasun: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 19:42:36,082 - Prasun: What symptoms are you experiencing?
+2025-01-16 19:42:41,750 - User: fever
+2025-01-16 19:42:41,751 - Prasun: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 19:42:59,532 - User: cold
+2025-01-16 19:42:59,532 - Prasun: If you have a cold, make sure to drink warm fluids and rest. Over-the-counter medications might help reduce symptoms.
+2025-01-16 19:43:19,540 - Prasun: Do you have a specific health concern?
+2025-01-16 19:43:23,006 - User: thank you
+2025-01-16 19:43:23,006 - Prasun: You're welcome! Take care of your health, and have a great day! 
+2025-01-16 19:43:54,620 - Prasun: Would you like to have few tips on mindfulness or relaxation?
+2025-01-16 19:44:16,666 - User: yes
+2025-01-16 19:44:16,666 - Prasun: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 19:51:28,945 - Morgan: Do you have a specific health concern?
+2025-01-16 19:51:30,662 - Morgan: Do you have a specific health concern?
+2025-01-16 19:51:31,491 - Morgan: Do you have a specific health concern?
+2025-01-16 19:51:32,033 - Morgan: Do you have a specific health concern?
+2025-01-16 19:51:32,429 - Morgan: Do you have a specific health concern?
+2025-01-16 19:51:37,720 - User: fever
+2025-01-16 19:51:37,720 - Morgan: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 19:51:49,504 - Morgan: How are you feeling today?
+2025-01-16 19:51:57,338 - User: stressed
+2025-01-16 19:51:57,338 - Morgan: Stress is common. Deep breathing or mindfulness exercises can help. 
+2025-01-16 19:52:13,273 - User: how to relief
+2025-01-16 19:52:13,273 - Morgan: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 19:52:18,877 - Morgan: Do you want to learn some ways to relief your problems
+2025-01-16 19:52:22,763 - User: yes
+2025-01-16 19:52:22,763 - Morgan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 19:52:42,767 - Morgan: Have you been experiencing any stress or anxiety lately?
+2025-01-16 20:03:59,878 - User: hi
+2025-01-16 20:03:59,878 - Pushpa: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 20:04:04,422 - User: diet
+2025-01-16 20:04:04,422 - Pushpa: Eating a balanced diet with fresh fruits, vegetables, and whole grains can boost your overall health. Would you like to get dietary advice?
+2025-01-16 20:04:09,875 - User: yes
+2025-01-16 20:04:09,875 - Pushpa: Try to reduce processed foods and sugary drinks for better health.
+2025-01-16 20:04:18,014 - User: thank you
+2025-01-16 20:04:18,014 - Pushpa: You're welcome! Take care of your health, and have a great day! 
+2025-01-16 20:04:24,547 - User ended the chat.
+2025-01-16 20:05:10,880 - User ended the chat.
+2025-01-16 20:05:39,798 - User ended the chat.
+2025-01-16 20:08:20,519 - Jordan: How can I assist you?
+2025-01-16 20:08:23,011 - Jordan: Do you have questions about admissions?
+2025-01-16 20:08:28,213 - User: yes
+2025-01-16 20:08:28,213 - Jordan: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 20:08:48,221 - Jordan: What can I help you with today?
+2025-01-16 20:09:57,689 - User: stress
+2025-01-16 20:09:57,689 - Jordan: Stress is common. Deep breathing or mindfulness exercises can help. Would you like to know about managing stress?
+2025-01-16 20:10:02,722 - User: yes
+2025-01-16 20:10:02,722 - Jordan: Regular exercise is a fantastic stress reliever. Even a short walk can help.
+2025-01-16 20:10:12,503 - User: hi
+2025-01-16 20:10:12,503 - Jordan: Hello! How are you feeling today? Remember, it's okay to talk about how you're feeling. Let me know how I can help.
+2025-01-16 20:10:27,636 - User: motivation
+2025-01-16 20:10:27,636 - Jordan: Losing motivation is normal at times. Try breaking tasks into small, manageable goals.
+2025-01-16 20:10:47,639 - Jordan: Have you been experiencing any stress or anxiety lately?
+2025-01-16 20:11:05,781 - User: y
+2025-01-16 20:11:05,781 - Jordan: Excellent! Let’s begin with exercise. Aim for at least 30 minutes of physical activity most days of the week.
+2025-01-16 20:11:25,782 - Jordan: Can you tell me more about what's been going on in your life that's causing you problems
+2025-01-16 20:12:00,458 - User: library
+2025-01-16 20:12:00,458 - Jordan: Our library is open from 9 AM to 8 PM. You can find digital resources, research journals, and study spaces. Would you like to know about library resources?
+2025-01-16 20:12:04,738 - User: y
+2025-01-16 20:12:04,738 - Jordan: Excellent! Let’s begin with exercise. Aim for at least 30 minutes of physical activity most days of the week.
+2025-01-16 20:12:11,808 - User: yes
+2025-01-16 20:12:11,808 - Jordan: Regular exercise is a fantastic stress reliever. Even a short walk can help.
+2025-01-16 20:12:17,631 - User: no
+2025-01-16 20:12:17,632 - Jordan: Alright, no problem. There are many different stress management techniques, so keep exploring to find what works for you.
+2025-01-16 20:12:28,280 - User: fuck
+2025-01-16 20:12:28,280 - Jordan: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 20:13:34,905 - Jordan: What can I help you with today?
+2025-01-16 20:13:35,707 - User: event in our collage
+2025-01-16 20:13:35,707 - Jordan: Hmm, I’m not sure about that. Could you clarify?
+2025-01-16 20:13:55,720 - Jordan: Do you have questions about admissions?
+2025-01-16 20:22:09,306 - Jordan: Can you tell me more about what's been going on in your life that's causing you problems
+2025-01-16 20:22:15,690 - User: anxiety
+2025-01-16 20:22:15,690 - Jordan: Anxiety can feel overwhelming. Focusing on your breathing or grounding techniques can help. do you like to have some mental health tips
+2025-01-16 20:22:20,506 - User: yes
+2025-01-16 20:22:20,506 - Jordan: I'm sorry, I didn't quite understand that. Could you rephrase?
+2025-01-16 20:22:31,778 - User: mental health
+2025-01-16 20:22:31,778 - Jordan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 20:22:40,496 - User: hi
+2025-01-16 20:22:40,496 - Jordan: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 20:22:45,874 - User: fever
+2025-01-16 20:22:45,874 - Jordan: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 20:22:49,882 - Jordan: Do you have a specific health concern?
+2025-01-16 20:22:53,636 - User: yes
+2025-01-16 20:22:53,636 - Jordan: Sorry, I didn’t catch that. Can you try asking another way?
+2025-01-16 20:23:13,651 - Jordan: Do you have a specific health concern?
+2025-01-16 20:23:16,856 - User: diet
+2025-01-16 20:23:16,856 - Jordan: Eating a balanced diet with fresh fruits, vegetables, and whole grains can boost your overall health. Would you like to get dietary advice?
+2025-01-16 20:23:21,003 - User: yes
+2025-01-16 20:23:21,003 - Jordan: Try to reduce processed foods and sugary drinks for better health.
+2025-01-16 20:23:35,145 - User: thank you
+2025-01-16 20:23:35,145 - Jordan: You're welcome! Take care of your health, and have a great day! 
+2025-01-16 20:23:46,857 - User: hi
+2025-01-16 20:23:46,857 - Jordan: Hello! How are you feeling today? Remember, it's okay to talk about how you're feeling. Let me know how I can help.
+2025-01-16 20:24:05,297 - User: stress
+2025-01-16 20:24:05,298 - Jordan: Stress is common. Deep breathing or mindfulness exercises can help. Would you like to know about managing stress?
+2025-01-16 20:24:08,790 - User: yes
+2025-01-16 20:24:08,790 - Jordan: Regular exercise is a fantastic stress reliever. Even a short walk can help.
+2025-01-16 20:24:18,708 - User: thank you
+2025-01-16 20:24:18,708 - Jordan: You're welcome! Take care, and remember, you're not alone.
+2025-01-16 20:24:27,258 - User: anxiety
+2025-01-16 20:24:27,258 - Jordan: Anxiety can feel overwhelming. Focusing on your breathing or grounding techniques can help. do you like to have some mental health tips
+2025-01-16 20:24:33,885 - User: yes
+2025-01-16 20:24:33,885 - Jordan: Regular exercise is a fantastic stress reliever. Even a short walk can help.
+2025-01-16 20:24:53,890 - Jordan: How are you feeling today?
+2025-01-16 20:25:46,348 - User: hi
+2025-01-16 20:25:46,348 - Jordan: Hello! I'm here to help with any queries you have. Let me know how I can assist you today.
+2025-01-16 20:25:54,402 - User: library
+2025-01-16 20:25:54,402 - Jordan: Our library is open from 9 AM to 8 PM. You can find digital resources, research journals, and study spaces. Would you like to know about library resources?
+2025-01-16 20:25:59,147 - User: y
+2025-01-16 20:25:59,147 - Jordan: Fantastic! Our library provides access to a vast collection of digital journals and e-books. Want to know how to access them online?
+2025-01-16 20:26:07,932 - User: yes
+2025-01-16 20:26:07,932 - Jordan: We offer digital journals, e-books, and access to databases like JSTOR. Let me know if you'd like to learn more.
+2025-01-16 20:26:14,714 - User: no
+2025-01-16 20:26:14,715 - Jordan: That's fine! Let me know if you'd like to explore group study opportunities later.
+2025-01-16 20:26:21,528 - User: thank you
+2025-01-16 20:26:21,528 - Jordan: You're welcome! Let me know if there’s anything else I can help with.
+2025-01-16 20:26:25,857 - User ended the chat.
+2025-01-16 20:45:04,818 - User: hi
+2025-01-16 20:45:04,818 - Ruchi: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 20:45:24,822 - Ruchi: Do you have a specific health concern?
+2025-01-16 20:45:24,839 - Ruchi: What symptoms are you experiencing?
+2025-01-16 20:45:41,698 - User: where is hi
+2025-01-16 20:45:41,698 - Ruchi: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 20:46:00,733 - User: hi
+2025-01-16 20:46:00,733 - Ruchi: Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.
+2025-01-16 20:46:14,805 - User: diet
+2025-01-16 20:46:14,805 - Ruchi: Eating a balanced diet with fresh fruits, vegetables, and whole grains can boost your overall health. Would you like to get dietary advice?
+2025-01-16 20:46:22,909 - User: yes
+2025-01-16 20:46:22,909 - Ruchi: Try to reduce processed foods and sugary drinks for better health.
+2025-01-16 20:46:32,497 - User: thank you
+2025-01-16 20:46:32,497 - Ruchi: You're welcome! Take care of your health, and have a great day! 
+2025-01-16 20:46:37,613 - User ended the chat.
+2025-01-16 21:56:54,262 - Prasun: What symptoms are you experiencing?
+2025-01-16 22:05:46,174 - Pushpa: What symptoms are you experiencing?
+2025-01-16 22:06:17,491 - Ruchi: Do you have a specific health concern?
+2025-01-16 22:06:28,369 - User: im dealing with fever
+2025-01-16 22:06:28,369 - Ruchi: It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.
+2025-01-16 22:06:44,574 - User: thank you
+2025-01-16 22:06:44,575 - Ruchi: You're welcome! Take care of your health, and have a great day! 
+2025-01-16 22:06:50,608 - User ended the chat.
+2025-01-16 22:08:06,976 - Prasun: Have you been experiencing any stress or anxiety lately?
+2025-01-16 22:08:13,002 - User: stress
+2025-01-16 22:08:13,003 - Prasun: Stress is common. Deep breathing or mindfulness exercises can help. Would you like to know about managing stress?
+2025-01-16 22:08:17,704 - User: yes
+2025-01-16 22:08:17,706 - Prasun: Regular exercise is a fantastic stress reliever. Even a short walk can help.

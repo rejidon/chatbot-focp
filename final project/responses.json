@@ -1,0 +1,171 @@
+{
+  "greetings": [
+    "Hello! How can I assist you today?",
+    "Hi there! What can I do for you?",
+    "Greetings! How may I help you?",
+    "Good to see you! What brings you here today?"
+  ],
+  "fallbacks": [
+    "I'm sorry, I didn't quite understand that. Could you rephrase?",
+    "Hmm, I’m not sure about that. Could you clarify?",
+    "Sorry, I didn’t catch that. Can you try asking another way?"
+  ],
+  "keywords": {
+    "healthcare_advisor": {
+      "hi": "Hello! Are you experiencing any health issues lately? Feel free to share your concerns, and I'll try to help.",
+      "fever": "It's important to stay hydrated and rest. If the fever persists for more than two days, consult a healthcare provider.",
+      "headache": "Headaches can be caused by dehydration, stress, or fatigue. Try drinking water, resting, or taking over-the-counter pain relief if necessary.",
+      "cold": "If you have a cold, make sure to drink warm fluids and rest. Over-the-counter medications might help reduce symptoms.",
+      "diet": "Eating a balanced diet with fresh fruits, vegetables, and whole grains can boost your overall health. Would you like to get dietary advice?",
+      "thank you": "You're welcome! Take care of your health, and have a great day! "
+
+    },
+    "psychologist": {
+      "hi": "Hello! How are you feeling today? Remember, it's okay to talk about how you're feeling. Let me know how I can help.",
+      "stress": "Stress is common. Deep breathing or mindfulness exercises can help. Would you like to know about managing stress?",
+      "anxiety": "Anxiety can feel overwhelming. Focusing on your breathing or grounding techniques can help. do you like to have some mental health tips",
+      "depression": "I'm sorry you're feeling this way. Small steps like talking to someone you trust or journaling might help. ",
+      "motivation": "Losing motivation is normal at times. Try breaking tasks into small, manageable goals.",
+      "thank you": "You're welcome! Take care, and remember, you're not alone."
+    },
+    "general": {
+      "hi": "Hello! I'm here to help with any queries you have. Let me know how I can assist you today.",
+      "library": "Our library is open from 9 AM to 8 PM. You can find digital resources, research journals, and study spaces. Would you like to know about library resources?",
+      "admission": "Admissions are open until the end of this month. You’ll need a completed application, transcripts, and recommendation letters. Would you like to know about admission_requirements?",
+      "events": "We host events regularly on campus, from workshops to cultural festivals. Would you like to know about event details?",
+      "principal name": "Our principal is Professor Andrew Williams. He has been leading our institution for five years.",
+      "principal office": "The principal's office is located on the second floor, Room 205.",
+      "thank you": "You're welcome! Let me know if there’s anything else I can help with."
+    }
+  },
+
+
+  "follow_ups": {
+    "relaxation_technique": {
+      "yes": [
+        "Try meditation for 10 minutes each morning. It helps in reducing stress.",
+        "Progressive muscle relaxation can also work wonders. Start from your toes and work upwards."
+      ],
+      "no": [
+        "That's okay. Let me know if you want to discuss other ways to relax.",
+        "No worries. I’m here if you need further assistance."
+      ],
+      "y": [
+        "Great! Let's explore relaxation techniques. Try deep breathing exercises when you feel stressed.",
+        "Another effective method is listening to calming music. Would you like more tips?"
+      ],
+      "n": [
+        "Understood. If you change your mind or want to explore other stress-relief options, just let me know.",
+        "No problem at all. Remember, I'm here to assist whenever you need."
+      ]
+    },
+    "admission_require": {
+      "yes": [
+        "You'll need a high school diploma, a completed application form, and two letters of recommendation. Let me know if you need further guidance.",
+        "Our website has a detailed checklist for the admission process"
+      ],
+      "no": [
+        "Alright, feel free to reach out if you need help with scholarships, fees, or anything else.",
+        "No worries. Let me know if you want to discuss other topics!"
+      ],
+       "y": [
+        "Excellent! To summarize, admission requires a high school diploma, application form, and recommendation letters. Need help with any of these?",
+        "We also have early admission options. Interested in learning about those?"
+      ],
+      "n": [
+        "Okay, got it. If you have questions about campus life or courses instead, feel free to ask.",
+        "No problem. Is there anything else about admissions I can clarify for you?"
+      ]
+    },
+    "library_re": {
+      "yes": [
+        "We offer digital journals, e-books, and access to databases like JSTOR. Let me know if you'd like to learn more.",
+        "The library also has computers and private study rooms available for booking."
+      ],
+      "no": [
+        "That's fine! Let me know if you'd like to explore group study opportunities later.",
+        "No problem! The library is always there when you need it."
+      ],
+      "y": [
+        "Fantastic! Our library provides access to a vast collection of digital journals and e-books. Want to know how to access them online?",
+        "We also have workshops on using library resources effectively. Interested in the schedule?"
+      ],
+      "n": [
+        "Alright. If you decide you need library resources later, just ask.",
+        "No problem. Perhaps you're interested in other campus facilities?"
+      ]
+    },
+    "mental_health_tips": {
+      "yes": [
+        "Here are a few tips: Maintain a consistent sleep schedule, practice mindfulness, and stay connected with loved ones.",
+        "Exercise is a great way to boost mental health."
+      ],
+      "no": [
+        "Alright, let me know if you’d like to discuss anything else.",
+        "That’s fine! Remember, taking small steps can lead to big improvements."
+      ],
+       "y": [
+        "Great to hear you're open to tips! Start by trying to get consistent sleep and incorporating mindfulness into your day.",
+        "Connecting with friends and family also significantly boosts mental well-being."
+      ],
+      "n": [
+        "Understood. If you prefer to talk about something else or just chat, I’m here.",
+        "No problem. Remember, taking care of your mental health is important in many ways."
+      ]
+    },
+    "event_det": {
+      "yes": [
+        "We have an medical workshop this Friday at 3 PM. It’s a great opportunity to network and learn.",
+        "Next week, there’s a cultural festival showcasing talent from around the campus."
+      ],
+      "no": [
+        "Alright, let me know if you'd like to know about other events later.",
+        "No worries. You can always check the events board on our website!"
+      ],
+       "y": [
+        "Awesome! This Friday's medical workshop is at 3 PM in the auditorium. It's about innovations in medical technology.",
+        "And next week is our annual cultural festival, featuring music, dance, and food from around the world."
+      ],
+      "n": [
+        "No problem. If you become interested in events later, just ask!",
+        "Alright, is there anything else you're curious about?"
+      ]
+    },
+    "healthy_eating": {
+      "yes": [
+        "Focus on incorporating more fruits and vegetables into your meals.",
+        "Try to reduce processed foods and sugary drinks for better health."
+      ],
+      "no": [
+        "Okay, no problem. If you have other questions about health or diet, feel free to ask.",
+        "No worries. I'm here if you need help with anything else."
+      ],
+      "y": [
+        "Fantastic! A great start is to add a serving of vegetables to every meal.",
+        "Also, consider swapping sugary snacks for fruits or nuts."
+      ],
+      "n": [
+        "Understood. Your health choices are personal. I’m here to support you in any way you need.",
+        "No problem. If you ever want to discuss diet or health again, I’m ready to help."
+      ]
+    },
+     "stress_manage": { 
+      "yes": [
+        "Regular exercise is a fantastic stress reliever. Even a short walk can help.",
+        "Mindfulness meditation for just 10 minutes daily can significantly reduce stress levels."
+      ],
+      "no": [
+        "Alright, no problem. There are many different stress management techniques, so keep exploring to find what works for you.",
+        "No worries at all. Just let me know if you need assistance with anything else."
+      ],
+      "y": [
+        "Excellent! Let’s begin with exercise. Aim for at least 30 minutes of physical activity most days of the week.",
+        "And for mindfulness, try a guided meditation app to get started."
+      ],
+      "n": [
+        "Understood. If you prefer to address stress in other ways or talk about different topics, just let me know.",
+        "No problem at all. I'm here to support you however I can."
+      ]
+    }
+  }
+}

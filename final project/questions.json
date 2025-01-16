@@ -1,0 +1,19 @@
+{
+    "psychologist": [
+        "How are you feeling today?",
+        "Have you been experiencing any stress or anxiety lately?",
+        "Can you tell me more about what's been going on in your life that's causing you problems"
+    ],
+
+    "healthcare_advisor": ["What symptoms are you experiencing?",
+     "Do you have a specific health concern?"
+
+    ],
+
+    "general": [
+        "What can I help you with today?",
+        "How can I assist you?",
+        "Do you have questions about admissions?",
+        "would you like to know about upcomming events?"
+    ]
+}
